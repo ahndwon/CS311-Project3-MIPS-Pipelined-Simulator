@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Project3.dir/cs311.c.o CMakeFiles/Project3.dir/parse.c.o CMakeFiles/Project3.dir/run.c.o CMakeFiles/Project3.dir/util.c.o  -o Project3.exe -Wl,--out-implib,libProject3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
